@@ -1,4 +1,4 @@
-package com.yjh.rxjavadownimg
+package com.yjh.rxjavastudy.downimg
 
 import org.junit.Test
 
